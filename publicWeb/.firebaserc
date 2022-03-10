@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "caroneaoutoparts"
+  },
+  "targets": {
+    "caroneaoutoparts": {
+      "hosting": {
+        "publicpage": [
+          "caroneautoparts"
+        ]
+      }
+    }
+  }
+}
